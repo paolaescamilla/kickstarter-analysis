@@ -37,9 +37,9 @@ A second conclusion that is drawn is that December is the least ideal month for 
 ### Outcomes based on Goals
 When analyzing the outcomes of the theater campaigns based on the goals it is noticed that:
 
-*All theater campaigns with a goal of between $45,000 and $49,999 failed in 100%. 
-*From the theater campaigns with a goal of between $25,000 and $29,000, 80% of those failed while 20% succeeded. This is mentioned so Louise can keep in mind that this range of goal is highly risky.
-*The theater campaigns with the highest success rate, of 67%, was found within a goal of $35,000 to $44,999.
+* All theater campaigns with a goal of between $45,000 and $49,999 failed in 100%. 
+* From the theater campaigns with a goal of between $25,000 and $29,000, 80% of those failed while 20% succeeded. This is mentioned so Louise can keep in mind that this range of goal is highly risky.
+* The theater campaigns with the highest success rate, of 67%, was found within a goal of $35,000 to $44,999.
 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/78698456/108602842-5b4a6400-7372-11eb-847a-7214f6dae9e2.png)
 
