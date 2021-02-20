@@ -5,6 +5,8 @@ Her successful campaigns built up around april, reached their highest in the mon
 
 ![Outcomes Based on Launch Date](https://user-images.githubusercontent.com/78698456/108595176-67232f80-734c-11eb-9b52-4a1a54795a4e.png)
 
+This data tells us that Louise's campaigns will benefit more if the planning begins in the first quarter of the year to have a launch date of late april early may.
+
 The categories of campaigns that were most successful were theater and music, followed by film & video and technology. 
 ![Parent Category Outcomes](https://user-images.githubusercontent.com/78698456/108595290-16600680-734d-11eb-8635-d6cbc60644b2.png)
 
