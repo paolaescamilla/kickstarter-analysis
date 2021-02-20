@@ -44,9 +44,9 @@ When analyzing the outcomes of the theater campaigns based on the goals it is no
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/78698456/108602842-5b4a6400-7372-11eb-847a-7214f6dae9e2.png)
 
 ### Limitations
-Some limitations of this dataset were found I the following:
-The deadlines and launch dates were given in epoch timestamp. This requested to dedicate time to transform time into a readable format. 
-The dataset was initially incomplete in information. Therefore additional columns were added, using the information provided, to support the analysis. 
+Some limitations of this dataset were found in the following:
+* The deadlines and launch dates were given in epoch timestamp. This requested to dedicate time to transform time into a readable format. 
+* The dataset was initially incomplete in information. Therefore additional columns were added, using the information provided, to support the analysis. 
 
 ### Other Visualization Possibilities
 It is recommended the use of bar graphs to further explore other trends. Also, a box and whiskers table can be developed to learn more about possible outliers in the information. Lastly, more pivot tables can be developed using some other columns as possibility to uncover trends in other countries, in other categories/subcategories and specific names of campaigns.
