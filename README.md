@@ -10,5 +10,4 @@ The categories of campaigns that were most successful were theater and music, fo
 
 The countries that supported most if her campaigns were the United States and Great Britain. The Great Britain gave Louise more successful campagins in the parent category theater while the US showed more diversity and contributed highly to theater, film & videoo and music.
 
-![Parent Category by Outcome in US and GB.png]
-
+![Parent Category by Outcome in US and GB](https://user-images.githubusercontent.com/78698456/108595318-3a234c80-734d-11eb-89ce-109a04708602.png)
