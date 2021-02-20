@@ -2,7 +2,8 @@
 
 The data shared by Louise shows that she managed a total of 4,114 kickstarter campaigns from which 2,185 were successful.
 Her successful campaigns built up around april, reached their highest in the month of May and steadily decreased in the coming months up to september. 
-![Outcomes Based on Launch Date.png]---
+
+![Outcomes Based on Launch Date](https://user-images.githubusercontent.com/78698456/108595176-67232f80-734c-11eb-9b52-4a1a54795a4e.png)
 
 The categories of campaigns that were most successful were theater and music, followed by film & video and technology. 
 ![Parent Category Outcomes.png]---
