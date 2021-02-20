@@ -32,7 +32,7 @@ Analyzing the category theater by outcome and launch date it was noticed that wi
 
 A second conclusion that is drawn is that December is the least ideal month for Louise to start a theater campaign. Her successful campaigns almost match the total given for failed campaigns. This could potentially be due to the fact that the month coincides with the end of the theater season and therefore there is not as much interest to contribute to a campaign.
 
-![Theater Outcomes by Launch Date](resources/theater_Outcomes_vs_Launch.png)
+![Graph1](resources/theater_Outcomes_vs_Launch.png)
 
 ### Outcomes based on Goals
 When analyzing the outcomes of the theater campaigns based on the goals it is noticed that:
@@ -41,7 +41,7 @@ When analyzing the outcomes of the theater campaigns based on the goals it is no
 *From the theater campaigns with a goal of between $25,000 and $29,000, 80% of those failed while 20% succeeded. This is mentioned so Louise can keep in mind that this range of goal is highly risky.
 *The theater campaigns with the highest success rate, of 67%, was found within a goal of $35,000 to $44,999.
 
-![Outcomes based on Goals](resources/Outcomes_vs_Goalsl.png)
+![Graph2](resources/Outcomes_vs_Goalsl.png)
 
 ### Limitations
 Some limitations of this dataset were found I the following:
